@@ -46,4 +46,12 @@ Self-starter and continuously learning developer with expertise in both backend 
 ### Tracing started 11/30/2023
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       1 hr 53 mins    ██████████░░░░░░░░░░░░░░░   40.19 %
+TypeScript   1 hr 7 mins     ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+Markdown     1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
+Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+```
+
 <!--END_SECTION:waka-->
