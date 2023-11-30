@@ -1,12 +1,20 @@
-# Hi there 👋
+# Hi there 👋 🌈
 
 <div align="center">
 
 ![Avatar](images/Avatar300.PNG)
 
+Self-starter and continuously learning developer with expertise in both backend and frontend development. With a background in project management and product marketing, I can bridge the gap between cross-functional teams, business strategy and technical implementation.
+
 </div>
 
-## Languages and Technologies 👋
+## Certifications
+
+![AWS-ASA](https://img.shields.io/badge/associate%20solution%20architect-aws?style=for-the-badge%2C&label=aws&labelColor=232F3E&color=blue)
+![PMI-CAPM](https://img.shields.io/badge/associate%20project%20management-pmi?style=for-the-badge%2C&label=pmi&labelColor=232F3E&color=512BD4)
+![SCRUM](https://img.shields.io/badge/scrum%20master-agile?style=for-the-badge%2C&label=agile&labelColor=232F3E&color=0052cc)
+
+## Languages and Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,19 +39,11 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dt-dtran&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-qazi.vercel.app?user=dt-dtran&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ### Tracing started 11/30/2023
 
 <!--START_SECTION:waka-->
-
-```txt
-Python       1 hr 53 mins    ██████████░░░░░░░░░░░░░░░   40.19 %
-TypeScript   1 hr 7 mins     ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Markdown     1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
-Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-```
-
 <!--END_SECTION:waka-->
