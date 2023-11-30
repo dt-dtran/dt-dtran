@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Avatar](images/Avatar300.PNG)
+![Avatar](images/Avatar300.png)
 
 Self-starter and continuously learning developer with expertise in both backend and frontend development. With a background in project management and product marketing, I can bridge the gap between cross-functional teams, business strategy and technical implementation.
 
