@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+<div align="center">
+
+![Avatar](images/Avatar300.PNG)
+
+</div>
+
+## Languages and Technologies 👋
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,20 +27,15 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<!--
-**dt-dtran/dt-dtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=dt-dtran&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+### Tracing started 11/30/2023
 
 <!--START_SECTION:waka-->
 
@@ -44,6 +47,3 @@ Git Config   5 mins          ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dt-dtran&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dt-dtran&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
