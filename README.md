@@ -35,6 +35,14 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       1 hr 53 mins    ██████████░░░░░░░░░░░░░░░   40.19 %
+TypeScript   1 hr 7 mins     ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+Markdown     1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
+Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+```
+
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dt-dtran&theme=dark)](https://git.io/streak-stats)
