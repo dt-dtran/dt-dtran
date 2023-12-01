@@ -17,3 +17,8 @@ jobs:
           IGNORED_LANGUAGES: YAML JSON TOML
           TIME_RANGE: all_time
           SHOW_TOTAL: true
+          LANG_COUNT: 10
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
