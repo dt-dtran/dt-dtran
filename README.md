@@ -48,6 +48,8 @@ Self-starter and continuously learning developer with expertise in both backend 
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 4 hrs 42 mins
+
 Python       1 hr 53 mins    ██████████░░░░░░░░░░░░░░░   40.19 %
 TypeScript   1 hr 7 mins     ██████░░░░░░░░░░░░░░░░░░░   23.85 %
 Markdown     1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
