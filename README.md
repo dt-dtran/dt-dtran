@@ -48,16 +48,16 @@ Self-starter and continuously learning developer with expertise in both backend 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 42 mins
+Total Time: 12 hrs 40 mins
 
-Python       1 hr 53 mins    ██████████░░░░░░░░░░░░░░░   40.19 %
-TypeScript   1 hr 7 mins     ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Markdown     1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
-Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Markdown     5 hrs 37 mins   ███████████░░░░░░░░░░░░░░   44.32 %
+TypeScript   4 hrs           ████████░░░░░░░░░░░░░░░░░   31.55 %
+Python       1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
