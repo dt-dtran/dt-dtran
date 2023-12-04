@@ -1,9 +1,10 @@
 name: Profile Readme Development Stats
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: '30 14 * * *'
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -13,12 +14,26 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TIME: true
-          IGNORED_LANGUAGES: YAML JSON TOML
-          TIME_RANGE: all_time
-          SHOW_TOTAL: true
-          LANG_COUNT: 10
-          TARGET_BRANCH: main
-          TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: dt-dtran/dt-dtran
+
+          ### content
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML Text Git Config TSConfig
+          
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: main # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: dt-dtran # optional
+          AUTHOR_EMAIL: dt.dianatran@gmail.com # optional
+
