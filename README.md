@@ -14,6 +14,14 @@ Self-starter and continuously learning developer with expertise in both backend 
 ![PMI-CAPM](https://img.shields.io/badge/associate%20project%20management-pmi?style=for-the-badge%2C&label=pmi&labelColor=232F3E&color=512BD4)
 ![SCRUM](https://img.shields.io/badge/scrum%20master-agile?style=for-the-badge%2C&label=agile&labelColor=232F3E&color=0052cc)
 
+<details>
+  <summary> Badges and Courses </summary>
+  
+- [Credly](https://www.credly.com/users/diana-tran.91026e8b/badges)
+- [Accredible](https://www.credential.net/profile/dianatran569872/wallet?_ga=2.139446067.1266186403.1701744512-567085892.1699410490&_gac=1.21073225.1701744512.CjwKCAiAjrarBhAWEiwA2qWdCKtEuKiUYp6X1TvOu3nzV6vhkpWZDONvbbOD3VXX5FWBc13y1N3zixoCV2QQAvD_BwE&_gl=1*1n5wv7j*_ga*NTY3MDg1ODkyLjE2OTk0MTA0OTA.*_ga_FSDJZHHBH0*MTcwMTc0NDUxMi4yLjEuMTcwMTc0NDUzMi4wLjAuMA..#gs.16au8t)
+</details>
+
+
 ## Languages and Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,8 +50,6 @@ Self-starter and continuously learning developer with expertise in both backend 
 [![GitHub Streak](https://github-readme-streak-stats-qazi.vercel.app?user=dt-dtran&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-### Tracing started 11/30/2023
 
 <!--START_SECTION:waka-->
 
