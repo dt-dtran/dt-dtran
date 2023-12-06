@@ -54,17 +54,17 @@ Self-starter and continuously learning developer with expertise in both backend 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 04 December 2023
+From: 27 November 2023 - To: 06 December 2023
 
-Total Time: 15 hrs
+Total Time: 17 hrs 41 mins
 
-Markdown     6 hrs 40 mins   ███████████░░░░░░░░░░░░░░   44.38 %
-TypeScript   4 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.38 %
-Python       2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-JavaScript   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-SQL          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Markdown     7 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   42.67 %
+TypeScript   4 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+Python       3 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Git Config   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+SQL          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
