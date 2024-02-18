@@ -57,19 +57,19 @@ Self-starter and continuously learning developer with expertise in both backend 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 16 February 2024
+From: 27 November 2023 - To: 17 February 2024
 
-Total Time: 196 hrs 36 mins
+Total Time: 204 hrs 20 mins
 
-Python                     38 hrs 5 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
-Markdown                   37 hrs 3 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
-JavaScript                 36 hrs          ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
-TypeScript                 29 hrs 34 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-CSS                        8 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Docker                     7 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-HTML                       5 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Prisma                     2 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Bash                       2 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Python                     44 hrs 39 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
+Markdown                   37 hrs 4 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+JavaScript                 36 hrs          ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+TypeScript                 29 hrs 34 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+CSS                        8 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Docker                     7 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+HTML                       5 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Prisma                     2 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Bash                       2 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
