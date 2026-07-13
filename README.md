@@ -50,7 +50,7 @@ Self-starter and continuously learning developer with expertise in both backend 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 11 July 2026
+From: 27 November 2023 - To: 12 July 2026
 
 Total Time: 268 hrs 59 mins
 
